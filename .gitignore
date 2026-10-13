@@ -1,0 +1,22 @@
+
+# Python virtual environments
+venv/
+.venv/
+pyvenv.cfg
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+# Old synthetic dataset
+data/deliveries.csv
+
+# Virtual environment
+venv/

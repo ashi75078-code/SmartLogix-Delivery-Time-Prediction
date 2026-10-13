@@ -1,0 +1,2 @@
+Dataset,Model_File,Test_Records,MAE_minutes,RMSE_minutes,R2_Score
+Kaggle delivery-time dataset,delivery_time_model.pkl,200,6.656626719761719,9.561931002610077,0.796017353710861

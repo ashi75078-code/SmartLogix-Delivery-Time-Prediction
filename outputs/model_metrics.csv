@@ -1,0 +1,2 @@
+Dataset,Selected_Model,Training_Rows,Testing_Rows,MAE_minutes,RMSE_minutes,R2_Score
+Kaggle delivery-time dataset,Random Forest,800,200,6.656626719761721,9.561931002610077,0.796017353710861
